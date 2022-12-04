@@ -1,0 +1,51 @@
+p{
+    color:rgb(13, 14, 11); 
+   
+
+}
+
+#aba {
+    color: rgb(255, 102, 0);
+} 
+#ima {
+
+color: rgb(0, 0, 0);
+}
+#aba {
+    color: rgb(0, 255, 128);
+} 
+.ima {
+
+color: rgb(241, 237, 21);
+}
+
+.normal{
+  color:green;
+}
+.just{
+  color:calc()
+}
+img {
+    display: block;
+   /* margin: auto; */
+    width: 30%;
+    /* float: right; */
+    margin:auto
+}
+.text_center{
+    margin: auto;
+    
+    background-color: blue;
+}
+#ima {
+    text-align: center; background-color: rgb(255, 115, 0);
+    
+}
+
+
+
+
+   
+
+
+
